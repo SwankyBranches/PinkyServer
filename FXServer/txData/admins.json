@@ -1,0 +1,21 @@
+[
+  {
+    "name": "swanky_branches",
+    "master": true,
+    "password_hash": "$2a$11$U7LLSR3BR8kq9k6wPyPXieSOFca.6A1g6lJ2KfrJRa5fB/I5embia",
+    "providers": {
+      "citizenfx": {
+        "id": "swanky_branches",
+        "identifier": "fivem:2141774",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/2141774",
+          "name": "swanky_branches",
+          "profile": "https://forum.cfx.re/u/swanky_branches",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/swanky_branches/256/1162712_2.png",
+          "sub": "e12572654bbd0f518b654b0e338d11eb9f81dcbdacbb6a73e0230b763e03d5e3"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
