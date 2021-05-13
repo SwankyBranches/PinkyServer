@@ -1,21 +1,40 @@
 [
   {
-    "name": "swanky_branches",
+    "name": "dyna_johnson",
     "master": true,
-    "password_hash": "$2a$11$U7LLSR3BR8kq9k6wPyPXieSOFca.6A1g6lJ2KfrJRa5fB/I5embia",
+    "password_hash": "$2a$11$Q6MfIy7MLB1ca.A0Z3woqu1K74e7nabGQ.YNmTMzBZxTgYPFNg/fy",
     "providers": {
       "citizenfx": {
-        "id": "swanky_branches",
-        "identifier": "fivem:2141774",
+        "id": "dyna_johnson",
+        "identifier": "fivem:2127920",
         "data": {
-          "nameid": "https://forum.cfx.re/internal/user/2141774",
-          "name": "swanky_branches",
-          "profile": "https://forum.cfx.re/u/swanky_branches",
-          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/swanky_branches/256/1162712_2.png",
-          "sub": "e12572654bbd0f518b654b0e338d11eb9f81dcbdacbb6a73e0230b763e03d5e3"
+          "nameid": "https://forum.cfx.re/internal/user/2127920",
+          "name": "dyna_johnson",
+          "profile": "https://forum.cfx.re/u/dyna_johnson",
+          "picture": "https://avatars.discourse.org/v4/letter/d/7933a0/256.png",
+          "sub": "ccebc63ee354291203013cbf01970a9e02791df0b9c7a1ebb56cb2b165af8eea"
         }
       }
     },
     "permissions": []
+  },
+  {
+    "name": "Swanky",
+    "master": false,
+    "password_hash": "$2a$11$wK4VSUTYTU/UsLzBHnqNp.uIzFMlQQYigi1r0tAO7AYJ0tH08HNRq",
+    "password_temporary": true,
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Muddy_Mallard",
+    "master": false,
+    "password_hash": "$2a$11$zeRgWJm68NJuFfNw1jYAGeeiiMog0C9pzG3/1RUaJfsPtDuHoqBMK",
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
   }
 ]
